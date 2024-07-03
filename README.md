@@ -1,4 +1,4 @@
-#🌟Positive Vibes Messenger
+# 🌟Positive Vibes Messenger
 
 This project uses Python and PyAutoGUI to automate sending messages to a selected text box.
 
